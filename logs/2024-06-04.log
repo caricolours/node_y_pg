@@ -1,0 +1,72 @@
+
+Started GET /posts for :: ::1 at Mon Jun 03 2024 20:28:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 24 ms Request ID: [7c1087d7-fc90-4a90-bba9-7242339ba914]
+
+Started GET /posts for :: ::1 at Mon Jun 03 2024 21:06:21 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 65 ms Request ID: [9909a1f8-8fbe-4dca-8bdd-ce322083eab0]
+
+Started GET /post for :: ::1 at Mon Jun 03 2024 21:06:25 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [cd32f279-d934-4fbf-b528-02320dbe0686]
+
+Started GET / for :: ::1 at Mon Jun 03 2024 21:06:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [b6dcad8e-a7d5-4ac6-b3e5-0573e0933928]
+
+Started POST / for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:46:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":2,"cancion":"Numb","artista":"Linkin Park","tono":"Em"}
+Completed: 404 message:  Time response: 7 ms Request ID: [6d291823-e9a3-4683-9b33-4e736ae570a4]
+
+Started GET / for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:47:14 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {"id":2,"cancion":"Numb","artista":"Linkin Park","tono":"Em"}
+Completed: 404 message:  Time response: 8 ms Request ID: [500d0946-7786-4ea1-80cf-157396c6429c]
+
+Started GET / for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:48:33 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 13 ms Request ID: [99efdc01-e005-4760-8640-b4092130d3f9]
+
+Started GET / for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:49:01 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [e907701c-de58-4623-857f-0e299bd6c80c]
+
+Started GET /post for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:49:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 8 ms Request ID: [ea892001-ad29-4896-8912-339971c8e4af]
+
+Started GET /post for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:49:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [2d3409de-beb0-4399-b3da-ed4c4c879cfb]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:49:29 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 68 ms Request ID: [f0fc1809-1e9f-467c-91ce-16eff2e27c9d]
+
+Started GET /posts for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:50:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 17 ms Request ID: [d8cb5ee3-55e3-494a-8ea1-9f9604a77b7c]
+
+Started GET / for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:50:44 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [c26abce4-089e-4c24-9021-28bcac09873e]
+
+Started GET / for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:50:49 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [9756836a-8385-46c3-95b8-f9f14cad1dae]
+
+Started POST / for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:51:19 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [058a547b-3a4d-4790-8ae1-98e20e7a942e]
+
+Started POST / for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:58:39 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 18 ms Request ID: [2a9393a2-910e-4e24-a447-73b66bbebbda]
+
+Started GET / for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 22:58:58 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [8891eabd-8133-45a7-9b57-182b79c60711]
+
+Started GET / for :: ::ffff:127.0.0.1 at Mon Jun 03 2024 23:10:51 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 7 ms Request ID: [5782dc7c-8c47-4781-8da1-5f83e9b23d5b]

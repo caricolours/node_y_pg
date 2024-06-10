@@ -1,0 +1,36 @@
+
+Started GET / for :: ::1 at Sun Jun 02 2024 23:41:26 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 30 ms Request ID: [a454599e-0177-48e0-ae1a-c25d5313e961]
+
+Started GET / for :: ::1 at Mon Jun 03 2024 01:11:30 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 12 ms Request ID: [9140358e-0241-45cb-831d-8f7596052a6e]
+
+Started GET /songs for :: ::1 at Mon Jun 03 2024 01:43:55 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [05298b33-434d-41e2-b8fb-3b6942c790a0]
+
+Started GET / for :: ::1 at Mon Jun 03 2024 01:44:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [f4afec65-2fd8-4754-9a9d-4cb4a86ad33c]
+
+Started GET /canciones for :: ::1 at Mon Jun 03 2024 01:52:00 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [52de7ca7-013b-4ead-9b5c-3128a73cb0dc]
+
+Started GET / for :: ::1 at Mon Jun 03 2024 18:03:09 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 11 ms Request ID: [01c91257-c8d6-45e8-978f-2092dfb564a6]
+
+Started GET /post for :: ::1 at Mon Jun 03 2024 18:04:07 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [fbebc61f-232c-44eb-809f-1a7cc183f6f1]
+
+Started GET /posts for :: ::1 at Mon Jun 03 2024 18:04:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 500 message:  Time response: 60 ms Request ID: [3601939f-c596-46c2-81cd-fa8914bbb17c]
+
+Started GET /favicon.ico for :: ::1 at Mon Jun 03 2024 18:04:11 GMT-0400 (hora estándar de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [14e4da15-79a8-4598-a6eb-43ad39ced9ed]
